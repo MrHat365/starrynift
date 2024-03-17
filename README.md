@@ -13,6 +13,8 @@
 </p>
 <br>
 
+## [项目详情](https://starrynift.art?referralCode=97il5__yye)
+
 ## 👨‍💻‍主要功能
 - 创建新钱包——generate_wallets.py
 - 从Binance划转BNB到BSC 和 OPBNB链条链
