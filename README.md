@@ -6,17 +6,12 @@
 </p>
 
 <h3 align="center"> 打码平台推荐，应对各种人机交互验证码 </h3>
-
-<div align="center">
-
-[Captcha.run]("https://captcha.run/sso?inviter=766e7788-4ff4-47b6-b991-93ac43dbbfae")
-
-[Yes Captcha!]("https://yescaptcha.com/i/Sy4ti1")
-
-[NoCaptcha.io]("https://www.nocaptcha.io/register?c=W9SAq9")
-
-</div>
-
+<p align="center">
+  <a href="https://captcha.run/sso?inviter=766e7788-4ff4-47b6-b991-93ac43dbbfae"><h3 align="center">Captcha.run</h3></a> 
+  <a href="https://yescaptcha.com/i/Sy4ti1"><h3 align="center">Yes Captcha!</h3></a> 
+  <a href="https://www.nocaptcha.io/register?c=W9SAq9"><h3 align="center">NoCaptcha.io</h3></a> 
+</p>
+<br>
 
 ## 👨‍💻‍主要功能
 - 创建新钱包——generate_wallets.py
