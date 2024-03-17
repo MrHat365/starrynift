@@ -33,7 +33,6 @@
 - 安装python环境
 - ```python git clone https://github.com/MrHat365/starrynift.git```
 - ```pip install -r requirements.txt ```
-- ```pip install -r requirements.txt ```
 - 配置私钥`data/private_keys.txt`
 - 配置代理`data/proxies.txt`
 - 设置`settings.py`
